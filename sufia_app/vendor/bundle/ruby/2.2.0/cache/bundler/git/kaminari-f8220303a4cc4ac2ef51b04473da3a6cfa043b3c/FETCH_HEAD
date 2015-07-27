@@ -1,0 +1,41 @@
+95bb76ec0bfbd401016c3b39a5051d89f43c9a82		branch 'master' of git://github.com/jcoyne/kaminari
+85af9a893d46a20ef283dc71bab665367ceff3e4		branch 'params_with_dots' of git://github.com/jcoyne/kaminari
+0799f31d4a434eb275a3ee4fea2ef157644bc404		branch 'route_prefix_prototype' of git://github.com/jcoyne/kaminari
+7f7108e12bdd64eb5a76177633768feb14df5453		branch 'sufia' of git://github.com/jcoyne/kaminari
+294a0405d60878f38f5c40b8030025d6ba864a5b	not-for-merge	tag 'v0.1.0' of git://github.com/jcoyne/kaminari
+405220d92efd875f26e2ccea56b4c09eda6011a0	not-for-merge	tag 'v0.10.0' of git://github.com/jcoyne/kaminari
+6089df215e9dee7df17d7199ebd74101b2982f7e	not-for-merge	tag 'v0.10.1' of git://github.com/jcoyne/kaminari
+c34c557d974a0bbe250737340744102bfbf871c3	not-for-merge	tag 'v0.10.2' of git://github.com/jcoyne/kaminari
+3cf08e5d9b8956f7c838f1219e06c19303bd968b	not-for-merge	tag 'v0.10.3' of git://github.com/jcoyne/kaminari
+91e9137096e2e5aedfe91f9ebab35b4af8de2408	not-for-merge	tag 'v0.10.4' of git://github.com/jcoyne/kaminari
+43e343dcec601a00cb809fbfc7cd2e2f72f9801c	not-for-merge	tag 'v0.11.0' of git://github.com/jcoyne/kaminari
+fd1103973cf040e5ca2339f865b1ab28588f13a3	not-for-merge	tag 'v0.12.0' of git://github.com/jcoyne/kaminari
+dbb0314480099c15dfee735a9e32dcebfcc51379	not-for-merge	tag 'v0.12.1' of git://github.com/jcoyne/kaminari
+73e3c0fcc50aa44ea17d8fc31b5712ccdb6beb96	not-for-merge	tag 'v0.12.2' of git://github.com/jcoyne/kaminari
+dfd076d896e39a8677c6fbcf67c20f17c6e9f035	not-for-merge	tag 'v0.12.3' of git://github.com/jcoyne/kaminari
+fb3e84c9030c01c6602eb2c44aaefb3abd0977a2	not-for-merge	tag 'v0.12.4' of git://github.com/jcoyne/kaminari
+fb5f46f7658429abb8c43bb2b6267823d5961e91	not-for-merge	tag 'v0.13.0' of git://github.com/jcoyne/kaminari
+628c006a1eae7e278f5e7af3b7aed1127fb9270e	not-for-merge	tag 'v0.14.0' of git://github.com/jcoyne/kaminari
+3ce5c77c7fc0f82bf7f7bce4f4ea3cce838ef609	not-for-merge	tag 'v0.14.1' of git://github.com/jcoyne/kaminari
+ddff6ba0bbb0b390d7f2ffb209ca16e3727b8ae1	not-for-merge	tag 'v0.2.0' of git://github.com/jcoyne/kaminari
+0ce61dedd0a8904e94b323aaa4bb63517bfe6fb3	not-for-merge	tag 'v0.2.1' of git://github.com/jcoyne/kaminari
+7af0d0175824c568f72a6d60a57f90b2bf748458	not-for-merge	tag 'v0.3.0' of git://github.com/jcoyne/kaminari
+ca57544e9765a32f3af9afdf9c04bf9a816d205a	not-for-merge	tag 'v0.4.0' of git://github.com/jcoyne/kaminari
+2f48658a8f2c2199bee3fececd81814de8da8c7a	not-for-merge	tag 'v0.5.0' of git://github.com/jcoyne/kaminari
+14f11a26558bbc1964f831a4a4dc0c8413b128e0	not-for-merge	tag 'v0.6.0' of git://github.com/jcoyne/kaminari
+69d709bfef6fb8f9998b0693d132146a69cf39ce	not-for-merge	tag 'v0.6.1' of git://github.com/jcoyne/kaminari
+ebdae1b4aa01705febb3da093ff7e06d1c7946da	not-for-merge	tag 'v0.7.0' of git://github.com/jcoyne/kaminari
+e6481a1c896f91423569469e9a57237b52992395	not-for-merge	tag 'v0.8.0' of git://github.com/jcoyne/kaminari
+1a15d91cbd25859a69566e61c5f6172bcc2c140e	not-for-merge	tag 'v0.9.0' of git://github.com/jcoyne/kaminari
+2ebcfe641a2373724acfbb09ed6935209d0b35e0	not-for-merge	tag 'v0.9.1' of git://github.com/jcoyne/kaminari
+e60da3017c9f08f9c8b0800e29713049eeb803c0	not-for-merge	tag 'v0.9.10' of git://github.com/jcoyne/kaminari
+820286e7e1b14e5a680332fbd076c2cc6bf9ffd3	not-for-merge	tag 'v0.9.12' of git://github.com/jcoyne/kaminari
+3d92ccb811ddbf843d163aab1b1809a4946b5466	not-for-merge	tag 'v0.9.13' of git://github.com/jcoyne/kaminari
+baa106bbac7d9cd27b021766ea5028735c716e75	not-for-merge	tag 'v0.9.2' of git://github.com/jcoyne/kaminari
+ad6116b817c394208cc756f5785200d92d80ebea	not-for-merge	tag 'v0.9.3' of git://github.com/jcoyne/kaminari
+924f776227e1b358403e2abc758014b77c6c0c3a	not-for-merge	tag 'v0.9.4' of git://github.com/jcoyne/kaminari
+ecf83164292c54b5b2bb3f6a934ceed750bac049	not-for-merge	tag 'v0.9.5' of git://github.com/jcoyne/kaminari
+e8dd86ce54c6d488054ed7d7335847fb865f0394	not-for-merge	tag 'v0.9.6' of git://github.com/jcoyne/kaminari
+f48c4f23d0329eb2dc3da1fc66cffd570f32534e	not-for-merge	tag 'v0.9.7' of git://github.com/jcoyne/kaminari
+758318ca854c35e95354a295f9ee0ddfa1d9f6b9	not-for-merge	tag 'v0.9.8' of git://github.com/jcoyne/kaminari
+6d9982531870a8bd34ec11b1e851605336dc022c	not-for-merge	tag 'v0.9.9' of git://github.com/jcoyne/kaminari

@@ -1,0 +1,38 @@
+f742fddc6d0b3f11e7db5bfe415095425d577a5e		branch 'atz' of git://github.com/mlibrary/umichwrapper
+d325400a413cf3ee6377e6b40acad2ce698e2864		branch 'download_jetty' of git://github.com/mlibrary/umichwrapper
+ac7bfb059fbcb25cde5c1790c1132e5b13537959		branch 'improve_message' of git://github.com/mlibrary/umichwrapper
+d7bb21314e9cfe690348efb95ca8380924e495f5		branch 'jruby' of git://github.com/mlibrary/umichwrapper
+cdf8bd51812235c1046cdd90921750c2d102fb80		branch 'master' of git://github.com/mlibrary/umichwrapper
+6b8b6de7e318a6d49dd5e1f0cdd3373e8269230d		branch 'mri_cleanup' of git://github.com/mlibrary/umichwrapper
+2a8c0fe9dc4ed1b376d72a14ddb5260cff2a28e0		branch 'stripper' of git://github.com/mlibrary/umichwrapper
+6a7eb40edf2a0ceaed91e8e65827b97ed9358ea3		branch 'warbler' of git://github.com/mlibrary/umichwrapper
+55d9632eab879e32d2aff95cb9ddc381f13571ef	not-for-merge	tag 'v0.0.10' of git://github.com/mlibrary/umichwrapper
+aff1b919b73c67affdec5786e00b2aab5902abdd	not-for-merge	tag 'v0.0.4' of git://github.com/mlibrary/umichwrapper
+3f6c748851532f2fd38d1941b38c3d255a60cc22	not-for-merge	tag 'v0.0.5' of git://github.com/mlibrary/umichwrapper
+0efc9366e1aa881fc12810b502eef7b22e9f4bae	not-for-merge	tag 'v0.0.6' of git://github.com/mlibrary/umichwrapper
+bfe448a0bef518b61e637185ef15c600457c30bb	not-for-merge	tag 'v0.0.7' of git://github.com/mlibrary/umichwrapper
+7f72058d66dfb8b644c6311eacfbc0e3a660082c	not-for-merge	tag 'v0.0.8' of git://github.com/mlibrary/umichwrapper
+e32dbeeb1a76030d896c5c89374a38ed5fc644f5	not-for-merge	tag 'v0.0.9' of git://github.com/mlibrary/umichwrapper
+81d28f78d6a4bbd2079997e2870302ade13da9b7	not-for-merge	tag 'v1.0.0' of git://github.com/mlibrary/umichwrapper
+c7c08fa3d402dd61df8cfe87e4df6d6cae2eed4b	not-for-merge	tag 'v1.0.1' of git://github.com/mlibrary/umichwrapper
+0a2cd0aad932ac6993e842759875dc7092206058	not-for-merge	tag 'v1.0.2' of git://github.com/mlibrary/umichwrapper
+aa57779784ded3dbb438f2c39d505b33f6eaa8cd	not-for-merge	tag 'v1.0.3' of git://github.com/mlibrary/umichwrapper
+609f4c01d0ec8d76a392813eaa84500406dd54f6	not-for-merge	tag 'v1.0.4' of git://github.com/mlibrary/umichwrapper
+7ee2189bceaa40fa0d5397d9fd885658825341f0	not-for-merge	tag 'v1.1.0' of git://github.com/mlibrary/umichwrapper
+167737c65a7e73708097aba65b9d0aff41746980	not-for-merge	tag 'v1.2.0' of git://github.com/mlibrary/umichwrapper
+52aac6f85a4144119b182283605c8582a927f504	not-for-merge	tag 'v1.2.1' of git://github.com/mlibrary/umichwrapper
+299273c6a0301348a4e81091507ed7faa61e50a6	not-for-merge	tag 'v1.3.0' of git://github.com/mlibrary/umichwrapper
+17228783b89d0c0e1b394aa435675c4c762063d0	not-for-merge	tag 'v1.3.1' of git://github.com/mlibrary/umichwrapper
+1171940e9c183a0305e6774a31f5d636e0e406a6	not-for-merge	tag 'v1.3.2' of git://github.com/mlibrary/umichwrapper
+59cdb6c8590ee92dbf29fe0d82631713cd195c17	not-for-merge	tag 'v1.4.0' of git://github.com/mlibrary/umichwrapper
+2cc280c2829484d469eeb381b06fadd7a4243408	not-for-merge	tag 'v1.4.1' of git://github.com/mlibrary/umichwrapper
+c7218e00b29e09f5be188f85cfc2d703413d9cd5	not-for-merge	tag 'v1.4.2' of git://github.com/mlibrary/umichwrapper
+85670700b3c75fb7ac2f50080c32942d35bcd60a	not-for-merge	tag 'v1.5.0' of git://github.com/mlibrary/umichwrapper
+d863ae493dc2ed2803517e08404311764a1802e8	not-for-merge	tag 'v1.5.1' of git://github.com/mlibrary/umichwrapper
+f5a33d2892f21189b837a208ea7dfb5c0615722a	not-for-merge	tag 'v1.5.2' of git://github.com/mlibrary/umichwrapper
+346d6ce7f51d1f426689fa6f7a4c83552d4e7fdd	not-for-merge	tag 'v1.6.0' of git://github.com/mlibrary/umichwrapper
+19037f2d48bea8c84eea0021cd3a77140629abc4	not-for-merge	tag 'v1.7.0' of git://github.com/mlibrary/umichwrapper
+5049cf2a657d47446ca60132803515be0bdfdfd2	not-for-merge	tag 'v1.8.0' of git://github.com/mlibrary/umichwrapper
+736c48613f28c5043d368de9b7a0475749cfaa6b	not-for-merge	tag 'v1.8.1' of git://github.com/mlibrary/umichwrapper
+1e2abfaf710a3abfe75ee595087951bfdcaf149b	not-for-merge	tag 'v1.8.2' of git://github.com/mlibrary/umichwrapper
+07928c2b4dd95e7c4bf12911345a64cbb1abcc34	not-for-merge	tag 'v1.8.3' of git://github.com/mlibrary/umichwrapper
